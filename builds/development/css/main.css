@@ -1,0 +1,19 @@
+/* Neat 1.7.0
+ * http://neat.bourbon.io
+ * Copyright 2012-2014 thoughtbot, inc.
+ * MIT License */
+/* line 2, /home/joridos/blogcabuum/src/sass/neat/grid/box-sizing */
+html {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+/* line 7, /home/joridos/blogcabuum/src/sass/neat/grid/box-sizing */
+*, *:before, *:after {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit; }
+
+/* line 4, /home/joridos/blogcabuum/src/sass/main.scss */
+body {
+  color: red; }
